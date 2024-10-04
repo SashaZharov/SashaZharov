@@ -13,6 +13,11 @@ Hi! My name is Sasha Zharov
 * <b>Position:</b> Front-end junior developer
 * <b>Development stack:</b> React, TypeScript, Redux
 
+<b>[Дзен](https://dzen.ru/) (09.07.2024)</b>
+
+* <b>Position:</b> Front-end developer
+* <b>Development stack:</b> React, TypeScript
+
 ## Skills
 #### Frontend
 

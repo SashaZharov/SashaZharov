@@ -1,24 +1,25 @@
-Hi! My name is Sasha Zharov
-=============================
+# Hi! My name is Sasha Zharov
 
-* 🌍  I'm a front-end developer from St. Petersburg
-* 🏢  I'm studying at ITMO University
-* 🤵  You can contact me on <a href="https://t.me/Sasha_Zharov">Telegram </a>
-* ✉️  My email [a.zharovv@gmail.com](mailto:a.zharovv@gmail.com)
-* 👀  My [Resume](https://github.com/SashaZharov/SashaZharov/blob/main/Resume.pdf)
+- 🌍 I'm a front-end developer from St. Petersburg
+- 🏢 I'm studying at ITMO University
+- 🤵 You can contact me on <a href="https://t.me/Sasha_Zharov">Telegram </a>
+- ✉️ My email [a.zharovv@gmail.com](mailto:a.zharovv@gmail.com)
+- 👀 My [Resume](https://github.com/SashaZharov/SashaZharov/blob/main/Resume.pdf)
 
 ## Work experience
+
 <b>[КотBread](https://vk.com/kotbread) (12.01.2022 - 25.08.2023)</b>
 
-* <b>Position:</b> Front-end junior developer
-* <b>Development stack:</b> React, TypeScript, Redux
+- <b>Position:</b> Front-end junior developer
+- <b>Development stack:</b> React, TypeScript, Redux
 
-<b>[Дзен](https://dzen.ru/) (09.07.2024)</b>
+<b>[Дзен](https://dzen.ru/) (09.07.2024 - 10.10.2024)</b>
 
-* <b>Position:</b> Front-end developer
-* <b>Development stack:</b> React, TypeScript
+- <b>Position:</b> Front-end developer
+- <b>Development stack:</b> React, TypeScript
 
 ## Skills
+
 #### Frontend
 
 <p align="left">
